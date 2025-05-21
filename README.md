@@ -1,9 +1,14 @@
-# Kaede Johnson Writing Samples
+# Writing Samples
 
-This repo collects a series of writing samples. My MSc thesis is available at 
+This repo collects a series of academic and professional writing samples. It also contains my MSc and BSc transcripts.
+
+## MSc Thesis
+
+My MSc thesis is available at Data Science & NLP > DPO for ATS (MSC THESIS).pdf
 
 ## Online samples
 
-LLM Semantic Reasoning: https://drudilorenzo.github.io/ada-klech-data-story/
+The following two reports are only available online: 
+(AI/NLP, Academic) [LLM Semantic Reasoning](https://drudilorenzo.github.io/ada-klech-data-story/)
 
-Wage Growth in Advanced Economies: https://www.federalreserve.gov/econres/notes/feds-notes/why-has-wage-growth-been-subdued-in-the-advanced-foreign-economies-20200708.html
+(Economics, Professional) [Wage Growth in Advanced Economies](https://www.federalreserve.gov/econres/notes/feds-notes/why-has-wage-growth-been-subdued-in-the-advanced-foreign-economies-20200708.html)
