@@ -1,4 +1,8 @@
-# Online samples
+# Kaede Johnson Writing Samples
+
+This repo collects a series of writing samples. My MSc thesis is available at 
+
+## Online samples
 
 LLM Semantic Reasoning: https://drudilorenzo.github.io/ada-klech-data-story/
 
